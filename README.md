@@ -58,14 +58,16 @@ Grad-CAM explainability.
 ---
 
 ## 📁 Repository Structure
-alzheimers-disease-detection/
-├── preprocessing.py # Data loading and augmentation
-├── model.py # VGG-16 architecture
-├── train.py # Training pipeline
-├── gradcam.py # Grad-CAM explainability
-├── evaluate.py # Model evaluation
-└── requirements.txt # Dependencies
 
+```
+alzheimers-disease-detection/
+├── preprocessing.py      
+├── model.py             
+├── train.py             
+├── gradcam.py           
+├── evaluate.py          
+└── requirements.txt     
+```
 ---
 
 ## 🔍 Key Findings
