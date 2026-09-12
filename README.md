@@ -61,12 +61,8 @@ Grad-CAM explainability.
 
 ```
 alzheimers-disease-detection/
-├── preprocessing.py      
-├── model.py             
-├── train.py             
-├── gradcam.py           
-├── evaluate.py          
-└── requirements.txt     
+├── dissertation.ipynb    ← Main research notebook
+└── README.md            ← Project documentation    
 ```
 ---
 
